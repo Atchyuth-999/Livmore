@@ -1,0 +1,50 @@
+[
+  {
+    "id": "req_1793199057631_3006",
+    "fullName": "Atchyuth kolli",
+    "phoneNumber": "9542921224",
+    "emailAddress": "atchyuthkolli999@gmail.com",
+    "city": "Mumbai",
+    "propertyType": "Duplex Residence",
+    "requiredService": "Furniture and Décor",
+    "estimatedBudget": "₹25 Lakhs – ₹50 Lakhs (Single Floor / Renovation)",
+    "preferredDate": "2026-10-31",
+    "preferredTime": "11:00 AM – 01:00 PM",
+    "additionalRequirements": "",
+    "submittedAt": "2026-10-28T14:50:57.631Z",
+    "status": "PENDING",
+    "referenceNumber": "LML-202610-3006"
+  },
+  {
+    "id": "req_1793198528877_5645",
+    "fullName": "Atchyuth kolli",
+    "phoneNumber": "9542921225",
+    "emailAddress": "atchyuthkolli9999@gmail.com",
+    "city": "Mumbai",
+    "propertyType": "4+ BHK Luxury Apartment",
+    "requiredService": "Modular Kitchen Design",
+    "estimatedBudget": "₹25 Lakhs – ₹50 Lakhs (Single Floor / Renovation)",
+    "preferredDate": "2026-10-29",
+    "preferredTime": "11:00 AM – 01:00 PM",
+    "additionalRequirements": "",
+    "submittedAt": "2026-10-28T14:42:08.877Z",
+    "status": "PENDING",
+    "referenceNumber": "LML-202610-5645"
+  },
+  {
+    "id": "req_seed_1001",
+    "fullName": "Vikramaditya Singhania",
+    "phoneNumber": "+91 98201 54321",
+    "emailAddress": "vikram@singhaniagroup.in",
+    "city": "Mumbai",
+    "propertyType": "Sky Penthouse",
+    "requiredService": "Turnkey Interior Solutions",
+    "estimatedBudget": "₹2.5 Crores+ (Ultra-Luxury Penthouse / Villa Estate)",
+    "preferredDate": "2026-11-10",
+    "preferredTime": "11:00 AM – 01:00 PM",
+    "additionalRequirements": "Duplex penthouse at Worli Sea Face. Require bookmatched Italian marble and bespoke fluted oak paneling throughout.",
+    "submittedAt": "2026-10-25T10:00:00.000Z",
+    "status": "CONFIRMED",
+    "referenceNumber": "LML-202610-1001"
+  }
+]
